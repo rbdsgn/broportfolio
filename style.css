@@ -1,0 +1,62 @@
+@import url('../bro/css/twentytwelve.css');
+@import url('../bro/css/bootstrap.css');
+
+/*
+Theme Name: Bro Portfolio
+Theme URI: http://
+Description: Twenty Eleven child theme with new post types
+Author: Robert Brodziak
+Version: 0.0.1
+Template: twentytwelve
+Tags: two-columns, right-sidebar, custom-header, custom-colors, custom-background, custom-menu, theme-options, threaded-comments, sticky-post, translation-ready, microformats, rtl-language-support, editor-style
+*/
+
+body {
+	background-color: ;
+}
+/*.entry-header  {
+	position: relative;
+	display: block;
+	width: 100%;
+}
+.rb-thumb-meta {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 100%;
+	width: 100%;
+	text-align: center;
+	display: table; 
+	
+	background-color: rgba(0,0,0,0.5);
+}
+.rb-entry-title {
+	
+	font-size: 16px !important;
+	
+	border-top: 1px solid #000;
+	display: table-cell;
+	padding-top: 5px;
+	vertical-align: middle;
+	
+
+	}
+
+.entry-header:hover .rb-entry-title{
+		
+}
+.entry-header:hover  img {
+	opacity: 0.5;
+}
+
+
+*/
+
+#secondary {
+	background: ;
+}
+#primary {
+	background: ;
+}
